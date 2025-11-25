@@ -19,7 +19,24 @@
 
 ---
 
-## 🧠 Machine Learning Techniques
+## 🧠 Business Analyst Techniques
+
+
+| **Technique**                           | **Description**                                                                                                            |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 📝 **Requirement Gathering & Analysis** | Conducting stakeholder interviews, eliciting requirements, documenting BRD/FRD, writing user stories & acceptance criteria |
+| 🧩 **Business Process Modeling**        | Creating process maps, flowcharts, BPMN diagrams, As-Is & To-Be workflows                                                  |
+| 🔍 **Data Analysis & Reporting**        | KPI development, data cleaning, trend analysis, dashboards, insight generation                                             |
+| 🧠 **Root Cause & GAP Analysis**        | Identifying business problems, bottlenecks, inefficiencies, and improvement opportunities                                  |
+| 📊 **Business Forecasting & Insights**  | Predictive insights, scenario modeling, financial forecasting, performance projections                                     |
+| 🎯 **Stakeholder Management**           | Communication, requirement validation, expectations handling, meeting documentation                                        |
+| ⏱️ **Project & Agile Practices**        | Sprint planning, backlog grooming, UAT, cross-team collaboration                                                           |
+| 🧪 **Testing & Validation**             | Writing test cases, conducting UAT, validating system functionality against requirements                                   |
+| 📄 **Documentation**                    | BRD, FRD, SRS, User Manuals, Process Documentation, Reporting Frameworks                                                   |
+| ⚙️ **Solution Design & Evaluation**     | Evaluating business solutions, feasibility analysis, cost-benefit analysis                                                 |
+
+
+
 
 Here’s what I love working with:
 
